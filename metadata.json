@@ -1,0 +1,6 @@
+{
+  "name": "God Answers",
+  "description": "God Answers 0.7.0 · Applicazione web e PWA per lo studio della Bibbia, consultazione di 66 libri, ricerca semantica offline con ragionamento profondo, note contestuali unificate e riferimenti incrociati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

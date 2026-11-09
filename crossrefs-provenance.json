@@ -1,0 +1,22 @@
+{
+  "source": "OpenBible.info Bible Cross References",
+  "source_url": "https://www.openbible.info/labs/cross-references/",
+  "download_url": "https://a.openbible.info/data/cross-references.zip",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "source_header": [
+    "From Verse",
+    "To Verse",
+    "Votes",
+    "#www.openbible.info CC-BY 2026-10-19"
+  ],
+  "source_sha256": "8cff4d0eb417cfda226ea82759a1481a392977dea5d511e70157d753e40d2c73",
+  "imported_utc": "2026-10-23T07:28:55.802483+00:00",
+  "input_rows": 344799,
+  "imported_links": 343571,
+  "verses_with_links": 29338,
+  "negative_vote_rows_excluded": 1228,
+  "unresolvable_rows_excluded": 0,
+  "rev_12_18_alignments": 0,
+  "modifications": "Reference-only import. Negative votes excluded; references validated against OTB; Rev 12:18 aligned to 13:1 when absent. No ESV text included. All displayed quotations come from the bundled OTB Bible."
+}

@@ -1,0 +1,9 @@
+{
+  "source": "Tyndale Open Study Notes",
+  "release": "1.25",
+  "copyright": "© 2022 Tyndale House Publishers",
+  "license": "CC BY-SA 4.0",
+  "source_url": "https://tyndaleopenresources.com/",
+  "source_sha256": "9088383f3e83c3c327dc2e27cc0d5733e7e60fbce6e818d9becdbf04a06092c2",
+  "changes": "Adapted from Tyndale Open Study Notes. Italian automatic translation with OPUS-MT, typography and reference alignment by God Answers. Original English retained. Reflection prompts and book lenses are separate original editorial material."
+}
