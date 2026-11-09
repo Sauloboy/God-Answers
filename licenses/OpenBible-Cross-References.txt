@@ -1,0 +1,7 @@
+Bible Cross References — OpenBible.info
+https://www.openbible.info/labs/cross-references/
+Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
+
+Reference-only import. Negative votes excluded; references validated against OTB; Rev 12:18 aligned to 13:1 when absent. No ESV text included. All displayed quotations come from the bundled OTB Bible.
+Source header: From Verse | To Verse | Votes | #www.openbible.info CC-BY 2026-10-19

@@ -1,0 +1,9 @@
+God Answers 0.3
+AI model: sentence-transformers/distiluse-base-multilingual-cased-v2
+https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2
+ONNX export: https://huggingface.co/Xenova/distiluse-base-multilingual-cased-v2
+License: Apache-2.0, see Apache-2.0.txt.
+The model is quantized; its outputs are mean-pooled, projected and normalized.
+The app builds its own Bible and topic retrieval index. No endorsement implied.
+Runtime: Microsoft ONNX Runtime 1.22.0, MIT, see ONNX-Runtime-MIT.txt.
+Bible: Open Translation Bible Italian 2026, CC BY-SA 4.0, see ../OTB-LICENSE.txt.
